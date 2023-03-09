@@ -51,7 +51,6 @@ public class Main {
             }
         }
 
-
     public static void task4 () {
         System.out.println("Задача 4");
         // Пишем код для задачи 4
