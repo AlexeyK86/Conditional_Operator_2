@@ -9,7 +9,7 @@ public class Main {
 
     public static void task1 () {
         System.out.println("Задача 1");
-        // Пишем код для задачи 1
+        // Пишем код для задачи 1.
         int clientOS = 1;
         if (clientOS == 0) {
             System.out.println("Установите версию приложения для iOS по ссылке");
